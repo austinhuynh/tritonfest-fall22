@@ -443,14 +443,15 @@ a:hover {
 /********************************* FOOTER ************************************/
 
 .footer {
-  background: var(--pinegreen);
-  margin: -16px 8px 0 8px;
+  background: var(--gold);
+  /*margin: -16px 8px 0 8px; */
+  border-top: 3px solid var(--pinegreen);
   width: 100%;
-  padding: 4vw 4vw 4vw 3vw;
+  padding: 16vw 16vw 16vw 12vw;
   font-size: 5.0vw;
   display: flex;
   justify-content: space-between;
-  color: var(--gold);
+  color: var(--pinegreen);
 }
 
 .footer h1 {
@@ -529,6 +530,10 @@ a:hover {
     top: 0;
   }
 
+  .mobile-background{
+    width: 100vw;
+  }
+
   .header-img-div {
     width: 100%;
   }
@@ -541,7 +546,7 @@ a:hover {
 
   .tf-info {
     margin: 16px 0px !important;
-    padding: 3vh 2vw;
+    padding: 2vh 2vw;
   }
 
   .tf-info p {
