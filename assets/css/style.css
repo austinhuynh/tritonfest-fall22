@@ -150,6 +150,7 @@ table {
   --pinegreen: #213E40;
   --gold: #FFD346;
   --sand: #EEDFC9;
+  --lightgreen: #346550;
   --gap: 0.5vw;
 }
 
@@ -342,7 +343,7 @@ a:hover {
 }
 
 .tf-logo {
-  fill: var(--pinegreen);
+  fill: var(--lightgreen);
   position: absolute;
   bottom: 32px;
   left: 0px;
@@ -360,6 +361,10 @@ a:hover {
   justify-content: space-between;
   border: 3px solid var(--gold);
   margin-top: 32px !important;
+}
+
+.info-alt{
+  background-color: var(--lightgreen);
 }
 
 .tf-info p {
