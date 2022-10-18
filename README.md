@@ -1,6 +1,6 @@
 <h2 align="center">
   UCSD's Tritonfest website for fall 2022<br/>
-  <a href="http://sgf.ucsd.edu/](https://tritonfest.ucsd.edu/" target="_blank">tritonfest.ucsd.edu</a>
+  <a href="https://tritonfest.ucsd.edu/" target="_blank">tritonfest.ucsd.edu</a>
 </h2>
 
 <p align="center">
